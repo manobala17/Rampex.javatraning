@@ -1,6 +1,6 @@
 package Day_6;
 import java.util.Scanner;
-public class Home_Task {
+public class ATM {
         public static void main(String[] args) {
 
             Scanner sc = new Scanner(System.in);
