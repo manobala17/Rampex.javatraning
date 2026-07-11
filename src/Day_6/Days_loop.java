@@ -1,6 +1,6 @@
 package Day_6;
 
-public class ClassTask {
+public class Days_loop {
 
     public static void main(String[] args) {
 
