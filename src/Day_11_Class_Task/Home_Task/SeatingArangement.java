@@ -1,4 +1,4 @@
-package Day_11_Home_Task;
+package Day_11_Class_Task.Home_Task;
 
 public class SeatingArangement {
     public static void main(String[] args){
