@@ -1,4 +1,4 @@
-package Day_7_Home_Task.java;
+package Day_7_Class_Task.Home_Task;
 import java.util.Scanner;
 public class Sumofdigit {
     public static void main(String[] args){
