@@ -1,4 +1,4 @@
-package Day_14_home_task;
+package Day_14_Class_Task.Home_Task;
     class RestaurantWorker implements Runnable {
         private String workerRole;
 
